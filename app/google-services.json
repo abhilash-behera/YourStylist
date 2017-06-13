@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977352894587",
+    "firebase_url": "https://your-stylist.firebaseio.com",
+    "project_id": "your-stylist",
+    "storage_bucket": "your-stylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977352894587:android:031fcc6b0d9e4086",
+        "android_client_info": {
+          "package_name": "com.Yourstylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977352894587-8ph9g4nobeiurd65jbeuji62d7bgfqsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Yourstylist",
+            "certificate_hash": "d2257019a85e548863e8883ae0a06b0cf3139bb3"
+          }
+        },
+        {
+          "client_id": "977352894587-cfcpb3uufbdq8nmfb1qu5635qem8hnp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwTPmvmlEMJNtbodLaERJxY_2W21ify0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977352894587-cfcpb3uufbdq8nmfb1qu5635qem8hnp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
